@@ -1,0 +1,1 @@
+data class Response(var status: String = "null")
